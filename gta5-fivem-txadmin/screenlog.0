@@ -1,0 +1,187 @@
+[38;5;218m[    c-server-monitor] [0m[0m[32m  _______  ______                           
+[38;5;218m[    c-server-monitor] [0m[32m |  ___\ \/ / ___|  ___ _ ____   _____ _ __ 
+[38;5;218m[    c-server-monitor] [0m[32m | |_   \  /\___ \ / _ \ '__\ \ / / _ \ '__|
+[38;5;218m[    c-server-monitor] [0m[32m |  _|  /  \ ___) |  __/ |   \ V /  __/ |   
+[38;5;218m[    c-server-monitor] [0m[32m |_|   /_/\_\____/ \___|_|    \_/ \___|_|   
+[38;5;218m[    c-server-monitor] [0m[32m-------------------------------- [93mtxAdmin[32m ---[0m
+[38;5;218m[    c-server-monitor] [0m[0m
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for monitor
+[44m[30m[13:53:11][tx][39m[49m Loading ZAP-Hosting configuration file.
+]0;txAdmin v7.3.2: default[44m[30m[13:53:11][tx:v7.3.2][39m[49m Profile 'default' starting...
+[43m[30m[13:53:11][tx:WebServer][39m[49m Starting with interface 134.255.233.15.
+[43m[30m[13:53:11][tx:WebServer][39m[49m If the HTTP server doesn't start, this is probably the reason.
+[42m[30m[13:53:11][tx:WebServer][39m[49m Listening on 134.255.233.15.
+[42m[30m[13:53:11][tx][39m[49m 
+[42m[30m[13:53:11][tx][39m[49m [36m   ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓[39m
+[42m[30m[13:53:11][tx][39m[49m    [36m┃[39m                                    [36m┃[39m
+[42m[30m[13:53:11][tx][39m[49m    [36m┃[39m     All ready! Please access:      [36m┃[39m
+[42m[30m[13:53:11][tx][39m[49m    [36m┃[39m   [7m http://134.255.233.15:30125/ [27m   [36m┃[39m
+[42m[30m[13:53:11][tx][39m[49m    [36m┃[39m                                    [36m┃[39m
+[42m[30m[13:53:11][tx][39m[49m [36m   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛[39m
+[42m[30m[13:53:11][tx][39m[49m 
+[42m[30m[13:53:11][tx:FXRunner][39m[49m >> [3439444] FXServer Started!
+[104m[1m[30m[104m[1m[30m[             TXADMIN][39m[30m[22m[1m[49m[104m ================================================================ [39m[22m[49m
+[104m[1m[30m[104m[1m[30m[             TXADMIN][39m[30m[22m[1m[49m[104m ======== [3439444] FXServer Starting - 28.12.2024, 13:53:11      [39m[22m[49m
+[104m[1m[30m[104m[1m[30m[             TXADMIN][39m[30m[22m[1m[49m[104m ================================================================ [39m[22m[49m
+[38;5;83m[           resources] [0m[0m[32mScanning resources.[0m
+[38;5;83m[           resources] [0m[0m[32mFound 83 resources.[0m
+[38;5;66m[          svadhesive] [0m[0mAuthenticating server license key...
+[38;5;66m[          svadhesive] [0m[0mServer license key authentication succeeded. Welcome!
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for sessionmanager
+[38;5;83m[           resources] [0m[0mStarted resource sessionmanager
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for monitor
+[38;5;84m[      script:monitor] [0m[0m[36m[txAdmin][97m Resource v7.3.2 threads and commands set up. All Ready.[97m
+[38;5;83m[           resources] [0m[97mStarted resource monitor
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for chat
+[38;5;83m[           resources] [0m[97mStarted resource chat
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for hardcap
+[38;5;83m[           resources] [0m[97mStarted resource hardcap
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for oxmysql
+[38;5;83m[           resources] [0m[97mStarted resource oxmysql
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for cron
+[38;5;83m[           resources] [0m[97mStarted resource cron
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for es_extended
+[38;5;83m[           resources] [0m[97mStarted resource es_extended
+[38;5;83m[           resources] [0m[97mStarted resource esx_chat_theme
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_context
+[38;5;83m[           resources] [0m[97mStarted resource esx_context
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_identity
+[38;5;83m[           resources] [0m[97mStarted resource esx_identity
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_loadingscreen
+[38;5;83m[           resources] [0m[97mStarted resource esx_loadingscreen
+[38;5;83m[           resources] [0m[97mStarted resource esx_menu_default
+[38;5;83m[           resources] [0m[97mStarted resource esx_menu_dialog
+[38;5;83m[           resources] [0m[97mStarted resource esx_menu_list
+[38;5;83m[           resources] [0m[97mStarted resource skinchanger
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_skin
+[38;5;83m[           resources] [0m[97mStarted resource esx_skin
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_multicharacter
+[38;5;83m[           resources] [0m[97mStarted resource esx_multicharacter
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_notify
+[38;5;83m[           resources] [0m[97mStarted resource esx_notify
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_progressbar
+[38;5;83m[           resources] [0m[97mStarted resource esx_progressbar
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_textui
+[38;5;83m[           resources] [0m[97mStarted resource esx_textui
+[38;5;83m[           resources] [0m[97mStarted resource bob74_ipl
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for pma-voice
+[38;5;83m[           resources] [0m[97mStarted resource pma-voice
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_datastore
+[38;5;83m[           resources] [0m[97mStarted resource esx_datastore
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_accessories
+[38;5;83m[           resources] [0m[97mStarted resource esx_accessories
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_addonaccount
+[38;5;83m[           resources] [0m[97mStarted resource esx_addonaccount
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_addoninventory
+[38;5;83m[           resources] [0m[97mStarted resource esx_addoninventory
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_vehicleshop
+[38;5;83m[           resources] [0m[97mStarted resource esx_vehicleshop
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_ambulancejob
+[38;5;83m[           resources] [0m[97mStarted resource esx_ambulancejob
+[38;5;83m[           resources] [0m[97mStarted resource esx_animations
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_banking
+[38;5;83m[           resources] [0m[97mStarted resource esx_banking
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_barbershop
+[38;5;83m[           resources] [0m[97mStarted resource esx_barbershop
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_status
+[38;5;83m[           resources] [0m[97mStarted resource esx_status
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_basicneeds
+[38;5;83m[           resources] [0m[97mStarted resource esx_basicneeds
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_billing
+[38;5;83m[           resources] [0m[97mStarted resource esx_billing
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_boat
+[38;5;83m[           resources] [0m[97mStarted resource esx_boat
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_clotheshop
+[38;5;83m[           resources] [0m[97mStarted resource esx_clotheshop
+[38;5;83m[           resources] [0m[97mStarted resource esx_cruisecontrol
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_license
+[38;5;83m[           resources] [0m[97mStarted resource esx_license
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_dmvschool
+[38;5;83m[           resources] [0m[97mStarted resource esx_dmvschool
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_drugs
+[38;5;83m[           resources] [0m[97mStarted resource esx_drugs
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_garage
+[38;5;83m[           resources] [0m[97mStarted resource esx_garage
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_hud
+[38;5;83m[           resources] [0m[97mStarted resource esx_hud
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_joblisting
+[38;5;83m[           resources] [0m[97mStarted resource esx_joblisting
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_jobs
+[38;5;83m[           resources] [0m[97mStarted resource esx_jobs
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_lscustom
+[38;5;83m[           resources] [0m[97mStarted resource esx_lscustom
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_society
+[38;5;83m[           resources] [0m[97mStarted resource esx_society
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_mechanicjob
+[38;5;83m[           resources] [0m[97mStarted resource esx_mechanicjob
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_optionalneeds
+[38;5;83m[           resources] [0m[97mStarted resource esx_optionalneeds
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_policejob
+[38;5;83m[           resources] [0m[97mStarted resource esx_policejob
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_property
+[38;5;83m[           resources] [0m[97mStarted resource esx_property
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_rpchat
+[38;5;83m[           resources] [0m[97mStarted resource esx_rpchat
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_service
+[38;5;83m[           resources] [0m[97mStarted resource esx_service
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_shops
+[38;5;83m[           resources] [0m[97mStarted resource esx_shops
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_taxijob
+[38;5;83m[           resources] [0m[97mStarted resource esx_taxijob
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_weaponshop
+[38;5;83m[           resources] [0m[97mStarted resource esx_weaponshop
+[38;5;83m[           resources] [0m[97mStarted resource thundermedicalcenter
+[38;5;83m[           resources] [0m[97mStarted resource dado
+[38;5;83m[           resources] [0m[97mStarted resource vector
+[38;5;83m[           resources] [0m[97mStarted resource ambulancia
+[38;5;83m[           resources] [0m[97mStarted resource paneladmin
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for npc_mission_system
+[38;5;83m[           resources] [0m[97mStarted resource npc_mission_system
+[38;5;186m[ citizen-server-main] [0m[97m[93mWarning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[38;5;186m[ citizen-server-main] [0m[93mTo learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6[0m
+[38;5;42m[      script:oxmysql] [0m[0m[36m[10.5.26-MariaDB-0+deb11u2] [32mDatabase server connection established![97m
+[38;5;220m[  script:es_extended] [0m[97m[[32mINFO[0m] ESX [36mLegacy 1.11.4[97m initialized!
+[38;5;189m[      script:esx_hud] [0m[97m[[34mINFO[0m] [93mesx_hud[0m: [32mYou are using the latest version![0m
+[38;5;73m[ citizen-server-impl] [0m[0m[91m        fff                          
+[38;5;73m[ citizen-server-impl] [0m[91m[91m  cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91m ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl] [0m[91m                                     [0m
+[38;5;73m[ citizen-server-impl] [0m[0m[32mAuthenticated with cfx.re Nucleus: [0mhttps://zaphosting-2bmk88.users.cfx.re/
+[38;5;63m[ script:esx_property] [0m[0m[[32mINFO[0m] Added [36mProperty[0m into [36mdatastore_data[0m table
+[38;5;134m[      script:hardcap] [0m[0mConnecting: PedroJoseHernan[0m
+[42m[30m[13:53:40][tx:PlayerDatabase][39m[49m Internal Database optimized. This applies only for the txAdmin internal database, and does not affect your MySQL or framework (ESX/QBCore/etc) databases.
+[42m[30m[13:53:40][tx:PlayerDatabase][39m[49m - 0 players that haven't connected in the past 16 days and had less than 2 hours of playtime.
+[42m[30m[13:53:40][tx:PlayerDatabase][39m[49m - 0 whitelist requests older than a week.
+[42m[30m[13:53:40][tx:PlayerDatabase][39m[49m - 0 whitelist approvals older than a week.
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[97m] Player [36m"William Kyle"[97m has connected to the server. ID: [36m1[0m
+[38;5;193m[script:npc_mission_s] [0m[0m[SERVER] Creando NPC #1 en (-213.94, -657.70, 1.00) modelo 'a_m_m_hillbilly_02'
+[38;5;193m[script:npc_mission_s] [0m[0m[SERVER] NPC #1 -> message='Hola', req='water', rew='water'
+[38;5;193m[script:npc_mission_s] [0m[0m[SERVER] Creando NPC #2 en (-212.92, -658.88, 1.00) modelo 'a_m_m_hillbilly_02'
+[38;5;193m[script:npc_mission_s] [0m[0m[SERVER] NPC #2 -> message='', req='', rew=''
+[38;5;193m[script:npc_mission_s] [0m[0m[SERVER] Creando NPC #3 en (-1037.56, -2737.02, 1.00) modelo 'cs_milton'
+[38;5;193m[script:npc_mission_s] [0m[0m[SERVER] NPC #3 -> message='', req='', rew=''
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved [36m1[0m player over [36m0.0[0m ms
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved [36m1[0m player over [36m0.0[0m ms
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved [36m1[0m player over [36m0.0[0m ms
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved [36m1[0m player over [36m0.0[0m ms
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved [36m1[0m player over [36m0.0[0m ms
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved player [36m"William Kyle[0m"
+[38;5;134m[      script:hardcap] [0m[0mConnecting: terry.xo[0m
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[97m] Player [36m"Taido Nakamura"[97m has connected to the server. ID: [36m2[0m
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved [36m1[0m player over [36m0.0[0m ms
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved [36m1[0m player over [36m0.0[0m ms
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved player [36m"Taido Nakamura[0m"
+[38;5;81m[script:esx_vehiclesh] [0m[0m[[32mINFO[0m] [36mRent Payments[0m Initiated
+[38;5;81m[script:esx_vehiclesh] [0m[0m[[32mINFO[0m] [36mRent Payments[0m took [36m1735.41[0m ms to execute
+[42m[30m[13:53:10][tx:PlayerDatabase][39m[49m Internal Database optimized. This applies only for the txAdmin internal database, and does not affect your MySQL or framework (ESX/QBCore/etc) databases.
+[42m[30m[13:53:10][tx:PlayerDatabase][39m[49m - 0 players that haven't connected in the past 16 days and had less than 2 hours of playtime.
+[42m[30m[13:53:10][tx:PlayerDatabase][39m[49m - 0 whitelist requests older than a week.
+[42m[30m[13:53:10][tx:PlayerDatabase][39m[49m - 0 whitelist approvals older than a week.
+[38;5;134m[      script:hardcap] [0m[0mConnecting: PedroJoseHernan[0m
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[97m] Player [36m"William Kyle"[97m has connected to the server. ID: [36m3[0m
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved [36m1[0m player over [36m0.0[0m ms
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved [36m1[0m player over [36m0.0[0m ms
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved [36m1[0m player over [36m0.0[0m ms
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved player [36m"William Kyle[0m"

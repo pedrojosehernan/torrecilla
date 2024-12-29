@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Misión NPC Final</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <!-- Panel de CONFIG (centro) -->
+    <div id="configPanel">
+        <h2>Configurar NPC</h2>
+        <label for="npcMessage">Mensaje del NPC:</label>
+        <input type="text" id="npcMessage" placeholder="Texto para el NPC" />
+
+        <label for="npcRequiredItem">Objeto requerido:</label>
+        <input type="text" id="npcRequiredItem" placeholder="Ej: item_madera" />
+
+        <label for="npcRewardItem">Objeto de recompensa:</label>
+        <input type="text" id="npcRewardItem" placeholder="Ej: item_dinero" />
+
+        <button id="setLocation">Establecer ubicación</button>
+        <button id="saveNpc">Guardar NPC</button>
+        <button id="closeConfigBtn">Cerrar</button>
+    </div>
+
+    <!-- Panel de INTERACCIÓN (abajo derecha) -->
+    <div id="npcInteractionPanel">
+        <h4 id="npcMessageText"></h4>
+        <p><b>Requerido:</b> <span id="npcRequiredText"></span></p>
+        <p><b>Recompensa:</b> <span id="npcRewardText"></span></p>
+        <button id="closeNpcInteractionBtn">Cerrar</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

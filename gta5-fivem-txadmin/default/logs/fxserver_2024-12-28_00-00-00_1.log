@@ -1,0 +1,1520 @@
+================================================================
+======== Log Rotated - 28.12.2024, 00:00:00                     
+================================================================
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved player "William Kyle"
+[             TXADMIN] ================================================================ 
+[             TXADMIN] ======== [1778053] FXServer Starting - 28.12.2024, 00:09:10      
+[             TXADMIN] ================================================================ 
+[           resources] Scanning resources.
+[           resources] Found 82 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v7.3.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource thundermedicalcenter
+[           resources] Started resource dado
+[           resources] Started resource vector
+[           resources] Started resource ambulancia
+[           resources] Started resource paneladmin
+[           resources] Started resource tp
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6
+[      script:oxmysql] [10.5.26-MariaDB-0+deb11u2] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zaphosting-2bmk88.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: PedroJoseHernan
+[  script:es_extended] [INFO] Player "William Kyle" has connected to the server. ID: 1
+[  script:es_extended] [INFO] Saved player "William Kyle"
+[             TXADMIN] ================================================================ 
+[             TXADMIN] ======== [1796713] FXServer Starting - 28.12.2024, 00:17:34      
+[             TXADMIN] ================================================================ 
+[           resources] Scanning resources.
+[           resources] Found 82 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v7.3.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource thundermedicalcenter
+[           resources] Started resource dado
+[           resources] Started resource vector
+[           resources] Started resource ambulancia
+[           resources] Started resource paneladmin
+[           resources] Started resource tp
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6
+[      script:oxmysql] [10.5.26-MariaDB-0+deb11u2] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zaphosting-2bmk88.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: PedroJoseHernan
+[  script:es_extended] [INFO] Player "William Kyle" has connected to the server. ID: 1
+[  script:es_extended] [INFO] Saved player "William Kyle"
+[             TXADMIN] txaEvent "adminsUpdated" "[]" 
+[             TXADMIN] txaEvent "adminsUpdated" "[]" 
+[             TXADMIN] txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂zap1267857＂,＂message＂:＂Reiniciando Servidor (admin request).＂}" 
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+
+[             TXADMIN] ================================================================ 
+[             TXADMIN] ======== [3204382] FXServer Starting - 28.12.2024, 12:10:50      
+[             TXADMIN] ================================================================ 
+[           resources] Scanning resources.
+[           resources] Found 82 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v7.3.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource thundermedicalcenter
+[           resources] Started resource dado
+[           resources] Started resource vector
+[           resources] Started resource ambulancia
+[           resources] Started resource paneladmin
+[           resources] Started resource tp
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6
+[      script:oxmysql] [10.5.26-MariaDB-0+deb11u2] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zaphosting-2bmk88.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: PedroJoseHernan
+[  script:es_extended] [INFO] Player "William Kyle" has connected to the server. ID: 1
+[             TXADMIN] txaEvent "announcement" "{＂message＂:＂HOLA＂,＂author＂:＂Pedro_Hernan＂}" 
+[             TXADMIN] txaEvent "adminsUpdated" "[1]" 
+[             TXADMIN] txaEvent "adminsUpdated" "[1]" 
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved player "William Kyle"
+[             TXADMIN] txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂zap1267857＂,＂message＂:＂Reiniciando Servidor (admin request).＂}" 
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+
+[             TXADMIN] ================================================================ 
+[             TXADMIN] ======== [3243005] FXServer Starting - 28.12.2024, 12:26:06      
+[             TXADMIN] ================================================================ 
+[           resources] Scanning resources.
+[           resources] Found 82 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v7.3.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource thundermedicalcenter
+[           resources] Started resource dado
+[           resources] Started resource vector
+[           resources] Started resource ambulancia
+[           resources] Started resource paneladmin
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6
+[      script:oxmysql] [10.5.26-MariaDB-0+deb11u2] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zaphosting-2bmk88.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: PedroJoseHernan
+[  script:es_extended] [INFO] Player "William Kyle" has connected to the server. ID: 1
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved player "William Kyle"
+[             TXADMIN] ================================================================ 
+[             TXADMIN] ======== [3277936] FXServer Starting - 28.12.2024, 12:42:51      
+[             TXADMIN] ================================================================ 
+[           resources] Scanning resources.
+[           resources] Found 83 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v7.3.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource thundermedicalcenter
+[           resources] Started resource dado
+[           resources] Started resource vector
+[           resources] Started resource ambulancia
+[           resources] Started resource paneladmin
+[    c-scripting-core] Creating script environments for npc_mission_system
+[           resources] Started resource npc_mission_system
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6
+[      script:oxmysql] [10.5.26-MariaDB-0+deb11u2] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zaphosting-2bmk88.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: PedroJoseHernan
+[  script:es_extended] [INFO] Player "William Kyle" has connected to the server. ID: 1
+[script:npc_mission_s] SCRIPT ERROR: @npc_mission_system/server.lua:13: table index is nil
+[script:npc_mission_s] > handler (@npc_mission_system/server.lua:13)
+[  script:es_extended] [INFO] Saved player "William Kyle"
+[             TXADMIN] ================================================================ 
+[             TXADMIN] ======== [3298926] FXServer Starting - 28.12.2024, 12:52:11      
+[             TXADMIN] ================================================================ 
+[           resources] Scanning resources.
+[           resources] Found 83 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v7.3.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource thundermedicalcenter
+[           resources] Started resource dado
+[           resources] Started resource vector
+[           resources] Started resource ambulancia
+[           resources] Started resource paneladmin
+[    c-scripting-core] Creating script environments for npc_mission_system
+[           resources] Started resource npc_mission_system
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6
+[      script:oxmysql] [10.5.26-MariaDB-0+deb11u2] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zaphosting-2bmk88.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: PedroJoseHernan
+[  script:es_extended] [INFO] Player "William Kyle" has connected to the server. ID: 1
+[script:npc_mission_s] SCRIPT ERROR: @npc_mission_system/server.lua:13: table index is nil
+[script:npc_mission_s] > handler (@npc_mission_system/server.lua:13)
+[script:npc_mission_s] SCRIPT ERROR: @npc_mission_system/server.lua:13: table index is nil
+[script:npc_mission_s] > handler (@npc_mission_system/server.lua:13)
+[script:npc_mission_s] SCRIPT ERROR: @npc_mission_system/server.lua:13: table index is nil
+[script:npc_mission_s] > handler (@npc_mission_system/server.lua:13)
+[script:npc_mission_s] SCRIPT ERROR: @npc_mission_system/server.lua:13: table index is nil
+[script:npc_mission_s] > handler (@npc_mission_system/server.lua:13)
+[script:npc_mission_s] SCRIPT ERROR: @npc_mission_system/server.lua:13: table index is nil
+[script:npc_mission_s] > handler (@npc_mission_system/server.lua:13)
+[script:npc_mission_s] SCRIPT ERROR: @npc_mission_system/server.lua:13: table index is nil
+[script:npc_mission_s] > handler (@npc_mission_system/server.lua:13)
+[script:npc_mission_s] SCRIPT ERROR: @npc_mission_system/server.lua:13: table index is nil
+[script:npc_mission_s] > handler (@npc_mission_system/server.lua:13)
+[script:npc_mission_s] SCRIPT ERROR: @npc_mission_system/server.lua:13: table index is nil
+[script:npc_mission_s] > handler (@npc_mission_system/server.lua:13)
+[script:npc_mission_s] SCRIPT ERROR: @npc_mission_system/server.lua:13: table index is nil
+[script:npc_mission_s] > handler (@npc_mission_system/server.lua:13)
+[  script:es_extended] [INFO] Saved player "William Kyle"
+[             TXADMIN] ================================================================ 
+[             TXADMIN] ======== [3316438] FXServer Starting - 28.12.2024, 12:58:48      
+[             TXADMIN] ================================================================ 
+[           resources] Scanning resources.
+[           resources] Found 83 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v7.3.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource thundermedicalcenter
+[           resources] Started resource dado
+[           resources] Started resource vector
+[           resources] Started resource ambulancia
+[           resources] Started resource paneladmin
+[    c-scripting-core] Creating script environments for npc_mission_system
+[           resources] Started resource npc_mission_system
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6
+[      script:oxmysql] [10.5.26-MariaDB-0+deb11u2] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zaphosting-2bmk88.users.cfx.re/
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: PedroJoseHernan
+[  script:es_extended] [INFO] Player "William Kyle" has connected to the server. ID: 1
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[             TXADMIN] ================================================================ 
+[             TXADMIN] ======== [3347731] FXServer Starting - 28.12.2024, 13:13:01      
+[             TXADMIN] ================================================================ 
+[           resources] Scanning resources.
+[           resources] Found 83 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v7.3.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource thundermedicalcenter
+[           resources] Started resource dado
+[           resources] Started resource vector
+[           resources] Started resource ambulancia
+[           resources] Started resource paneladmin
+[    c-scripting-core] Creating script environments for npc_mission_system
+[           resources] Started resource npc_mission_system
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6
+[      script:oxmysql] [10.5.26-MariaDB-0+deb11u2] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zaphosting-2bmk88.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: PedroJoseHernan
+[  script:es_extended] [INFO] Player "William Kyle" has connected to the server. ID: 1
+[  script:es_extended] [INFO] Saved player "William Kyle"
+[             TXADMIN] ================================================================ 
+[             TXADMIN] ======== [3366216] FXServer Starting - 28.12.2024, 13:21:43      
+[             TXADMIN] ================================================================ 
+[           resources] Scanning resources.
+[           resources] Found 83 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v7.3.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource thundermedicalcenter
+[           resources] Started resource dado
+[           resources] Started resource vector
+[           resources] Started resource ambulancia
+[           resources] Started resource paneladmin
+[    c-scripting-core] Creating script environments for npc_mission_system
+[           resources] Started resource npc_mission_system
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6
+[      script:oxmysql] [10.5.26-MariaDB-0+deb11u2] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zaphosting-2bmk88.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: PedroJoseHernan
+[  script:es_extended] [INFO] Player "William Kyle" has connected to the server. ID: 1
+[  script:es_extended] [INFO] Saved player "William Kyle"
+[             TXADMIN] ================================================================ 
+[             TXADMIN] ======== [3393390] FXServer Starting - 28.12.2024, 13:33:15      
+[             TXADMIN] ================================================================ 
+[           resources] Scanning resources.
+[           resources] Found 83 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v7.3.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource thundermedicalcenter
+[           resources] Started resource dado
+[           resources] Started resource vector
+[           resources] Started resource ambulancia
+[           resources] Started resource paneladmin
+[    c-scripting-core] Creating script environments for npc_mission_system
+[           resources] Started resource npc_mission_system
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6
+[      script:oxmysql] [10.5.26-MariaDB-0+deb11u2] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zaphosting-2bmk88.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: PedroJoseHernan
+[  script:es_extended] [INFO] Player "William Kyle" has connected to the server. ID: 1
+[  script:es_extended] [ERROR] Failed to execute Callback with RequestId: 0
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/modules/callback.lua:18: @es_extended/server/modules/onesync.lua:110: Tried to spawn invalid vehicle - issi!
+[  script:es_extended] > Execute (@es_extended/server/modules/callback.lua:18)
+[  script:es_extended] > RecieveClient (@es_extended/server/modules/callback.lua:56)
+[  script:es_extended] > handler (@es_extended/server/modules/callback.lua:61)
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved player "William Kyle"
+[             TXADMIN] ================================================================ 
+[             TXADMIN] ======== [3439444] FXServer Starting - 28.12.2024, 13:53:11      
+[             TXADMIN] ================================================================ 
+[           resources] Scanning resources.
+[           resources] Found 83 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v7.3.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource thundermedicalcenter
+[           resources] Started resource dado
+[           resources] Started resource vector
+[           resources] Started resource ambulancia
+[           resources] Started resource paneladmin
+[    c-scripting-core] Creating script environments for npc_mission_system
+[           resources] Started resource npc_mission_system
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://forum.cfx.re/t/celebrating-one-year-with-rockstar-games/5269938#fivem-and-redm-6
+[      script:oxmysql] [10.5.26-MariaDB-0+deb11u2] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zaphosting-2bmk88.users.cfx.re/
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: PedroJoseHernan
+[  script:es_extended] [INFO] Player "William Kyle" has connected to the server. ID: 1
+[script:npc_mission_s] [SERVER] Creando NPC #1 en (-213.94, -657.70, 1.00) modelo 'a_m_m_hillbilly_02'
+[script:npc_mission_s] [SERVER] NPC #1 -> message='Hola', req='water', rew='water'
+[script:npc_mission_s] [SERVER] Creando NPC #2 en (-212.92, -658.88, 1.00) modelo 'a_m_m_hillbilly_02'
+[script:npc_mission_s] [SERVER] NPC #2 -> message='', req='', rew=''
+[script:npc_mission_s] [SERVER] Creando NPC #3 en (-1037.56, -2737.02, 1.00) modelo 'cs_milton'
+[script:npc_mission_s] [SERVER] NPC #3 -> message='', req='', rew=''
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved player "William Kyle"
+[      script:hardcap] Connecting: terry.xo
+[  script:es_extended] [INFO] Player "Taido Nakamura" has connected to the server. ID: 2
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved player "Taido Nakamura"
+[script:esx_vehiclesh] [INFO] Rent Payments Initiated
+[script:esx_vehiclesh] [INFO] Rent Payments took 1735.41 ms to execute

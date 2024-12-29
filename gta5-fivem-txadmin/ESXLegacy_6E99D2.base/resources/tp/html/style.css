@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semi-transparente para oscurecer la pantalla */
+}
+
+#panel {
+    background-color: white; /* Fondo blanco del panel */
+    border: 5px solid yellow;   /* Borde amarillo */
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    background-color: yellow;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: orange;
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Copy to Clipboard</title>
+</head>
+<body>
+    <script>
+        // Recibir mensaje desde Lua
+        window.addEventListener('message', (event) => {
+            if (event.data.action === 'copy') {
+                const textarea = document.createElement('textarea');
+                textarea.value = event.data.text;
+                document.body.appendChild(textarea);
+                textarea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textarea);
+            }
+        });
+    </script>
+</body>
+</html>

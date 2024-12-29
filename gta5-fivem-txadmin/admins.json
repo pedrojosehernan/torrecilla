@@ -1,0 +1,31 @@
+[
+  {
+    "$schema": 1,
+    "name": "zap1267857",
+    "master": true,
+    "password_hash": "$2y$10$N0tdbz/BQdK6lEP9zQJSouoEQPM4eE3Rd27dvRq5ChUr1NS6Yr5I6",
+    "providers": {},
+    "permissions": []
+  },
+  {
+    "$schema": 1,
+    "name": "Pedro_Hernan",
+    "master": false,
+    "password_hash": "$2a$11$3wnbUzWfRKx0emt2yJ5lNeNLv4gy/acM499pzGNoiABPXgXlTiV26",
+    "providers": {
+      "citizenfx": {
+        "id": "Pedro_Hernan",
+        "identifier": "fivem:12147731",
+        "data": {}
+      },
+      "discord": {
+        "id": "1048935745836032051",
+        "identifier": "discord:1048935745836032051",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]

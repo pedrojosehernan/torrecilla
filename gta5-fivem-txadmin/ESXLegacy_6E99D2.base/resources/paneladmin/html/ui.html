@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Noclip</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: rgba(0, 0, 0, 0.7);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #panel {
+            width: 300px;
+            background-color: #555; /* Gris */
+            border: 3px solid yellow; /* Borde amarillo */
+            border-radius: 10px;
+            padding: 20px;
+            display: none; /* Inicialmente oculto */
+            text-align: center;
+        }
+
+        .button {
+            background-color: yellow;
+            color: black;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px;
+        }
+
+        .button:hover {
+            background-color: #ffd700;
+        }
+
+        h3 {
+            color: black; /* Letras negras */
+        }
+    </style>
+</head>
+<body>
+
+    <div id="panel">
+        <h3>Panel de Noclip</h3>
+        <button id="noclipButton" class="button">Activar Noclip</button>
+    </div>
+
+    <script>
+        let noclipPanel = document.getElementById("panel");
+        let noclipButton = document.getElementById("noclipButton");
+
+        // Detectar el click del botón y ejecutar el comando noclip
+        noclipButton.addEventListener("click", function() {
+            fetch('https://myresource/noclip'); // Llamar al evento para ejecutar el noclip
+        });
+
+        // Mostrar el panel cuando sea necesario
+        window.addEventListener('message', function(event) {
+            if (event.data.type === "showPanel") {
+                noclipPanel.style.display = "block"; // Mostrar el panel
+            }
+            if (event.data.type === "hidePanel") {
+                noclipPanel.style.display = "none"; // Ocultar el panel
+            }
+        });
+    </script>
+
+</body>
+</html>
